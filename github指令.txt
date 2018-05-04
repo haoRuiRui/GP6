@@ -19,5 +19,14 @@ git commit -m "注释";
 5.查看本地代码状态;(本地代码和本地仓库代码的区别);
 git status 
 
+5.2
+git status
+On branch master
+nothing to commit, working tree clean
+
+表示当前工作区和本地仓库代码一致;
+
+
 6.查看更改的区别;
 git diff;
+
