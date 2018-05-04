@@ -1,0 +1,13 @@
+1.创建一个仓库; git init;
+
+成功之后会出现:
+
+Initialized empty Git repository in E:/随堂/GP6/0504/GP6/.git/
+
+2.把对应的文件放入暂存区之中;
+
+git add + 文件名;
+
+git add -A 全部放入暂存区之中;
+
+3.建立.gitignore 忽略不想要放入版本管理的内容
