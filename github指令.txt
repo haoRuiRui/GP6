@@ -10,4 +10,14 @@ git add + 文件名;
 
 git add -A 全部放入暂存区之中;
 
-3.建立.gitignore 忽略不想要放入版本管理的内容
+3.建立.gitignore文件忽略不想要放入版本管理的内容
+
+4.git commit 放入本地仓库;
+
+git commit -m "注释";
+
+5.查看本地代码状态;(本地代码和本地仓库代码的区别);
+git status 
+
+6.查看更改的区别;
+git diff;
