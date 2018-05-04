@@ -16,6 +16,12 @@ git add -A 全部放入暂存区之中;
 
 git commit -m "注释";
 
+4.2. git commit -m "增加5.2信息提示及翻译"
+[master 0dfe9cb] 增加5.2信息提示及翻译
+ 1 file changed, 10 insertions(+), 1 deletion(-)
+
+master 0dfe9cb 代表版本号;(在master分支上的 第 0dfe9cb 版本)；
+
 5.查看本地代码状态;(本地代码和本地仓库代码的区别);
 git status 
 
@@ -29,4 +35,3 @@ nothing to commit, working tree clean
 
 6.查看更改的区别;
 git diff;
-
