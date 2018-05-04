@@ -48,7 +48,7 @@ git diff;
 
 8.2
 
-git reset --hard HARD^ 
+git reset --hard HEAD^ 
 
 还原到上n个版本;
 
