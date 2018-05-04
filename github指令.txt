@@ -35,3 +35,22 @@ nothing to commit, working tree clean
 
 6.查看更改的区别;
 git diff;
+
+7.git log 查看详细日志;（提交时间内容,详细版本号,详细信息）
+
+7.2.git reflog 查看还原(提供简易版本号及注释);
+
+8.版本还原;
+
+8.1 git reset --hard +版本号; 
+
+还原到指定版本;
+
+8.2
+
+git reset --hard HARD^ 
+
+还原到上n个版本;
+
+
+
