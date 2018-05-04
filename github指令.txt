@@ -65,5 +65,12 @@ git reset --hard HEAD^
 
   git checkout 分支名;
 
+10.远程仓库的设置；
 
+git remote add 源的名称(origin) 仓库地址;
+
+11.本地仓库推送到远程仓库;
+
+git push -u 源的名称(origin) 分支名称(master);
+ 
 
